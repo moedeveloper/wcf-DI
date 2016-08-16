@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SKFAptitude.Wcf.Service1" Factory="SKFAptitude.Wcf.WcfServiceFactory" %>

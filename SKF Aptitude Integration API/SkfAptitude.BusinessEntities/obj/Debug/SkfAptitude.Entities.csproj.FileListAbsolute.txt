@@ -1,0 +1,4 @@
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\bin\Debug\SkfAptitude.Entities.dll
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\bin\Debug\SkfAptitude.Entities.pdb
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\obj\Debug\SkfAptitude.Entities.dll
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\obj\Debug\SkfAptitude.Entities.pdb

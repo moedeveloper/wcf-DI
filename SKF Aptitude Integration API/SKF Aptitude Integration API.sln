@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkfAptitude.SDK", "SkfAptitude.SDK\SkfAptitude.SDK.csproj", "{B919AFEA-E3B0-4B0B-827C-4805D0F7197B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkfAptitude.BusinessEntities", "SkfAptitude.BusinessEntities\SkfAptitude.BusinessEntities.csproj", "{7B7B0005-7B60-4642-800F-4E6AFC30FE0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkfAptitude.Resolver", "SkfAptitude.Resolver\SkfAptitude.Resolver.csproj", "{657C7CB6-58A9-44F0-89D5-AD5B9E886927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkfAptitude.BusinessServices", "SkfAptitude.BusinessServices\SkfAptitude.BusinessServices.csproj", "{285C564B-4471-4FEF-8A60-413BC315E48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFAptitude.Wcf", "SKFAptitude.Wcf\SKFAptitude.Wcf.csproj", "{849CE0C3-958C-46C7-94FB-6D228D34C505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B919AFEA-E3B0-4B0B-827C-4805D0F7197B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B919AFEA-E3B0-4B0B-827C-4805D0F7197B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B919AFEA-E3B0-4B0B-827C-4805D0F7197B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B919AFEA-E3B0-4B0B-827C-4805D0F7197B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7B0005-7B60-4642-800F-4E6AFC30FE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7B0005-7B60-4642-800F-4E6AFC30FE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7B0005-7B60-4642-800F-4E6AFC30FE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7B0005-7B60-4642-800F-4E6AFC30FE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657C7CB6-58A9-44F0-89D5-AD5B9E886927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657C7CB6-58A9-44F0-89D5-AD5B9E886927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657C7CB6-58A9-44F0-89D5-AD5B9E886927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657C7CB6-58A9-44F0-89D5-AD5B9E886927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285C564B-4471-4FEF-8A60-413BC315E48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285C564B-4471-4FEF-8A60-413BC315E48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285C564B-4471-4FEF-8A60-413BC315E48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285C564B-4471-4FEF-8A60-413BC315E48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{849CE0C3-958C-46C7-94FB-6D228D34C505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849CE0C3-958C-46C7-94FB-6D228D34C505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849CE0C3-958C-46C7-94FB-6D228D34C505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849CE0C3-958C-46C7-94FB-6D228D34C505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\bin\Debug\SkfAptitude.Entities.dll
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\bin\Debug\SkfAptitude.Entities.pdb
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\obj\Debug\SkfAptitude.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\obj\Debug\SkfAptitude.Entities.dll
+C:\Users\momor1\Desktop\@ptitude SKF\Source Code\SKF Custom Interfacing WCF API\SKF Aptitude Integration API\SkfAptitude.Entities\obj\Debug\SkfAptitude.Entities.pdb
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessEntities\bin\Debug\SkfAptitude.Entities.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessEntities\bin\Debug\SkfAptitude.Entities.pdb
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessEntities\obj\Debug\SkfAptitude.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessEntities\obj\Debug\SkfAptitude.Entities.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessEntities\obj\Debug\SkfAptitude.Entities.pdb

@@ -1,0 +1,17 @@
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SkfAptitude.BusinessServices.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SkfAptitude.BusinessServices.pdb
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SkfAptitude.Resolver.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SkfAptitude.SDK.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SKF.RS.AddOnSDK.CoreData.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SKF.RS.AddOnSDK.CommonDefs.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SKF.RS.AddOnSDK.Utilities.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SkfAptitude.Resolver.pdb
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\SkfAptitude.SDK.pdb
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\obj\Debug\SkfAptitude.BusinessServices.csprojResolveAssemblyReference.cache
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\obj\Debug\SkfAptitude.BusinessServices.dll
+C:\Users\momor1\Desktop\SKF @ptitude\Source Code\skf-aptitude-integration-api\SKF Aptitude Integration API\SkfAptitude.BusinessServices\obj\Debug\SkfAptitude.BusinessServices.pdb
